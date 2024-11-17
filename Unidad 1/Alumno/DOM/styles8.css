@@ -1,0 +1,11 @@
+.box {
+    width: 200px;
+    height: 100px;
+    background-color: lightblue;
+    margin-bottom: 20px;
+}
+
+.active {
+    background-color: green;
+    color: white;
+}

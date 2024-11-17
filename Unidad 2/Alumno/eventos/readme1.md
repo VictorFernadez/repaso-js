@@ -1,0 +1,2 @@
+Ejercicio 1: Cambio de Color al Hacer Clic en un Botón
+Enunciado: Haz que el fondo de la página cambie de color cuando el usuario haga clic en un botón. Los colores deben cambiar aleatoriamente cada vez que el usuario haga clic.

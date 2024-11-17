@@ -1,0 +1,2 @@
+Ejercicio 2: Cambiar el Color de Fondo de un Elemento
+Enunciado: Tienes una lista de elementos con clase .item. Debes cambiar el color de fondo de todos los elementos de la lista cuando se haga clic en un botón.

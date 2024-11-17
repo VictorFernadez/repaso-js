@@ -1,0 +1,2 @@
+Ejercicio 1: Seleccionar un Elemento por ID y Cambiar su Contenido
+Enunciado: Tienes una página con un div que contiene un mensaje de bienvenida. Debes seleccionar ese div utilizando su ID y cambiar su contenido a un nuevo mensaje de bienvenida.
